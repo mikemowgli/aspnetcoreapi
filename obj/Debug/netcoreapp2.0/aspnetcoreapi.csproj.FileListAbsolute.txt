@@ -1,0 +1,11 @@
+D:\Forem\kubernetes\aspnetcoreapi\aspnetcoreapi\bin\Debug\netcoreapp2.0\aspnetcoreapi.deps.json
+D:\Forem\kubernetes\aspnetcoreapi\aspnetcoreapi\bin\Debug\netcoreapp2.0\aspnetcoreapi.runtimeconfig.json
+D:\Forem\kubernetes\aspnetcoreapi\aspnetcoreapi\bin\Debug\netcoreapp2.0\aspnetcoreapi.runtimeconfig.dev.json
+D:\Forem\kubernetes\aspnetcoreapi\aspnetcoreapi\bin\Debug\netcoreapp2.0\aspnetcoreapi.dll
+D:\Forem\kubernetes\aspnetcoreapi\aspnetcoreapi\bin\Debug\netcoreapp2.0\aspnetcoreapi.pdb
+D:\Forem\kubernetes\aspnetcoreapi\aspnetcoreapi\obj\Debug\netcoreapp2.0\aspnetcoreapi.csprojResolveAssemblyReference.cache
+D:\Forem\kubernetes\aspnetcoreapi\aspnetcoreapi\obj\Debug\netcoreapp2.0\aspnetcoreapi.csproj.CoreCompileInputs.cache
+D:\Forem\kubernetes\aspnetcoreapi\aspnetcoreapi\obj\Debug\netcoreapp2.0\aspnetcoreapi.AssemblyInfoInputs.cache
+D:\Forem\kubernetes\aspnetcoreapi\aspnetcoreapi\obj\Debug\netcoreapp2.0\aspnetcoreapi.AssemblyInfo.cs
+D:\Forem\kubernetes\aspnetcoreapi\aspnetcoreapi\obj\Debug\netcoreapp2.0\aspnetcoreapi.dll
+D:\Forem\kubernetes\aspnetcoreapi\aspnetcoreapi\obj\Debug\netcoreapp2.0\aspnetcoreapi.pdb
