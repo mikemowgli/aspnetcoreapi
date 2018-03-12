@@ -1,11 +1,6 @@
 FROM microsoft/aspnetcore-build:2.0 AS build-env
 WORKDIR /app
 
-ENV http_proxy http://192.168.253.12:8080
-ENV https_proxy http://192.168.253.12:8080
-COPY NuGet.Config /root/.nuget/NuGet/NuGet.Config
-
-#RUN ["cp", "NuGet.Config", "/root/aspnetcoreapi/NuGet.Config"]
 # Copy csproj and restore as distinct layers
 COPY *.csproj ./
 RUN dotnet restore
