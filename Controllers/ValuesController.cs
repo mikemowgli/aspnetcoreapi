@@ -13,7 +13,7 @@ namespace aspnetcoreapi.Controllers
         [HttpGet]
         public IEnumerable<string> Get()
         {
-            return new string[] { "eo", "region" };
+            return new string[] { "hello spacebel", "eo", "regions" };
         }
 
         // GET api/values/5
